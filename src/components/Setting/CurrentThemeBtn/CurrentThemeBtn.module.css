@@ -1,0 +1,9 @@
+.colorPlate__wrapper {
+  display: flex;
+  align-items: center;
+  gap: 2em;
+  padding: 2em;
+  background: #eee;
+  border-radius: 5px;
+  align-self: start;
+}

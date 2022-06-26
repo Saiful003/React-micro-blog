@@ -1,0 +1,19 @@
+.input_class2 {
+  width: 100%;
+  border: none;
+}
+
+.wrapper {
+  display: flex;
+  grid-column: span 4;
+  border: 1px solid #cccccc;
+  border-radius: 9px;
+  gap: 7px;
+  overflow: hidden;
+}
+.has_sign {
+  display: flex;
+  align-items: center;
+  padding: 0 8px;
+  background: #e0e0e0;
+}

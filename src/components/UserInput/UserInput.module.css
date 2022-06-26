@@ -1,0 +1,37 @@
+.userInput__section {
+  align-self: start;
+  padding: 2em 30px;
+  background: #fff;
+  border-radius: 3px;
+  position: sticky;
+  top: 14%;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  flex-basis: 27%;
+}
+
+.user__introduction {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.9em;
+}
+.parent_wrapper {
+  display: flex;
+  gap: 0.5em;
+  align-items: center;
+  margin-top: 0.5em;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.input_class1 {
+  text-align: center;
+  padding: 0.7em 0;
+  width: 100%;
+  font-size: 1rem;
+  font-weight: bold;
+  background: #ffff;
+  color: #444;
+  border-radius: 5px;
+}

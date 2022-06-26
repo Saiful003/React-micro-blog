@@ -1,0 +1,11 @@
+.post__container {
+  flex-basis: 54%;
+}
+.message {
+  padding: 1em;
+}
+
+.hastag_container {
+  color: #fff;
+  padding: 1em;
+}
